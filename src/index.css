@@ -9,3 +9,11 @@ body {
 .playfair {
     font-family: "Playfair Display", serif
 }
+
+/* .bg {
+    background: url(/images/VIDEO.png) center/cover no-repeat;
+} */
+
+.hero {
+    background: url(/images/photo\ hero.png) center/cover no-repeat;
+}
